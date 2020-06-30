@@ -1,1 +1,3 @@
-# prefer-template-issue-demo
+# `prefer-template` Issue Demo
+
+See the issue in main.js.
