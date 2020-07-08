@@ -1,4 +1,7 @@
 {
+  "parserOptions": {
+    "ecmaVersion": 2015
+  },
   "rules": {
     "template-curly-spacing": ["error", "never"],
     "prefer-template": "error"
