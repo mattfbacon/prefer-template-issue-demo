@@ -1,0 +1,7 @@
+{
+  "name": "prefertemplateissuedemo",
+  "version": "1.0",
+  "dependencies": {
+    "eslint": "7.4.0"
+  }
+}
